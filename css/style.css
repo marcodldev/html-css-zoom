@@ -34,8 +34,17 @@
 
  .cardcontainer {
     flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
  }
 
  .card {
-    width: calc(98%/8);
+    width: calc(98%/7);
+    position: relative;
+ }
+
+ p {
+    position: absolute;
+    left: 5px;
+    bottom: 10px;
  }
