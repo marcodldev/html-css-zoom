@@ -1,0 +1,41 @@
+/* Reset browser impostazioni di default */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ .container-app{
+    height: 100vh;
+    background-color: black;
+    flex-direction: column;
+    color: white;
+
+ }
+
+ .flex {
+    display: flex;
+   }
+
+  #speaker {
+    background-color: grey;
+    opacity: 0.5;
+    height: 100%;
+  } 
+
+ main {
+    flex-grow: 2;
+ }
+
+ footer {
+    background-color: grey;
+ }
+
+ .cardcontainer {
+    flex-wrap: wrap;
+ }
+
+ .card {
+    width: calc(98%/8);
+ }
