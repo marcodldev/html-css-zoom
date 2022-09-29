@@ -97,3 +97,11 @@
     justify-content: center;
     padding-bottom: 5px;
  }
+
+ .green {
+    color: greenyellow;
+ }
+
+ .padtop50 {
+    padding-top: 50%;
+ }
