@@ -21,7 +21,6 @@
   #speaker {
     background-color: grey;
     opacity: 0.5;
-    height: 100%;
     flex-direction: row;
     border-radius: 5px;
     padding: 5px;
@@ -33,7 +32,7 @@
  }
 
  footer {
-    background-color: grey;
+    background-color: rgb(109, 109, 109);
  }
 
  .cardcontainer {
