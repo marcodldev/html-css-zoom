@@ -24,6 +24,7 @@
 
    header {
     justify-content: end;
+    height: 28px;
    }
 
    .frecce {
@@ -60,6 +61,11 @@
  .card {
     width: calc(98%/7);
     position: relative;
+ }
+
+ .card img {
+   width: 100%;
+   padding: 5px;
  }
 
  p {
