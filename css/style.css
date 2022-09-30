@@ -11,6 +11,7 @@
     background-color: black;
     flex-direction: column;
     color: white;
+    display: flex;
 
  }
 
